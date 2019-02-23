@@ -5,16 +5,16 @@
   </PropertyGroup>
 
   <PropertyGroup>
-    <Description>PoC.NOT - Common.Service project</Description>
+    <PackageId>PoC.NOT.Common.Service</PackageId>
     <VersionPrefix>1.0.0</VersionPrefix>
+    <Description>PoC.NOT - Common.Service project</Description>
     <Authors>PoC.NOT</Authors>
+    <Company>PoC.NOT</Company>
+    <Title>Common.Service</Title>
     <TargetFrameworks>netstandard2.0</TargetFrameworks>
     <AssemblyName>Common.Service</AssemblyName>
-    <Title>Common.Service</Title>
-    <PackageId>PoC.NOT.Common.Service</PackageId>
     <PackageTags>PoC.NOT</PackageTags>
     <GeneratePackageOnBuild>false</GeneratePackageOnBuild>
-    <Company>PoC.NOT</Company>
     <PackageProjectUrl>https://github.com/poc-dot-not/common</PackageProjectUrl>
     <RepositoryUrl>https://github.com/poc-dot-not/common</RepositoryUrl>
   </PropertyGroup>
